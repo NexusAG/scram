@@ -1,4 +1,4 @@
-<h1 align="center">Scramjet</h1>
+<h1 align="center">Scram</h1>
 <div align="center">
   <img src="assets/scramjet.png" height="200" />
 </div>
